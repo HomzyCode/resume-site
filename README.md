@@ -1,6 +1,6 @@
 # Resume Site
 
-Personal resume website for Marcus Fadairo (QA Engineer and Technical Specialist), hosted on AWS and deployed automatically from this repo.
+Hello! This is my personal resume webistie, hosted on AWS and deployed automatically from this repo.
 
 **Live site:** https://d1z1sk0ochps5.cloudfront.net/
 
